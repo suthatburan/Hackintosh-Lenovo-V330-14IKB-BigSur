@@ -17,7 +17,7 @@
   + SSD Samsung 500GB
 - **Keyboard**: Chiclet keyboard 
 - **Card Reader**: microSD CardReader
-- **WebCam**: VGA Web Camera
+- **Webcam**: VGA Web Camera
 
 # WORKING:
 - [x] **Graphics UHD 620**
@@ -43,10 +43,7 @@
 - [x] Sleep power
 - [x] Battery with Battery Threshold feature (limit charging at 80% for a long-life battery) 
 - [x] Trackpad (Only working in Polling MODE with VoodooI2C)
-- [x] Full 4 cores
-- [x] Temporature
 - [x] System Fan Control
-- [x] Ethernet (Using NullEthernet.kext)~~
 - [x] Hardware Acceleration
 - [x] Power Management and P-States
 
