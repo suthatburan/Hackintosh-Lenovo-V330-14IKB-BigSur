@@ -1,4 +1,5 @@
 # Lenovo V330-14IKB For MacOS 11.0.1 BigSur
+# OpenCore 0.6.3
 ***This EFI can be used for previous version of macOS ***
 ![System Info](screenshot/bigsur.jpg)
 # Specification
