@@ -5,7 +5,7 @@
 - **MainBoard:** Lenovo V330-14IKB.
 - **Processor:** Intel Core i5-8250U (KabyLake-R)
 - **Graphic:** 
-  + Intel UHD620 (1536MB of dynamic memory (shared from the system))
+  + Intel UHD620 (1536MB of dynamic memory)
 - **Network:**
   + LAN: Realtek RTL811
   + Wifi: Broadcom BCM43525
@@ -37,11 +37,11 @@
     + **Fn + F7/F8**: Increase/Decrease Keyboard Backlight (16 levels)
     + **Fn + F9/F10/F11/F12**: Home/End/PgUp/PgDown
     + **Fn + Space**: Play/Pause
-    + **Fn + Enter** : Put Computer to Sleep (run install_daemon.sh as root to make this work)
+    + **Fn + Enter** : Put Computer to Sleep
     + **Fn + Esc**: On/Off Screen
 - [x] Led light keyboard (Fn + F7/F8: Increase/Decrease Keyboard Backlight (16 levels))
 - [x] Sleep power
-- [x] Battery with Battery Threshold feature (limit charging at 80% for a long-life battery) 
+- [x] Battery with Battery Threshold feature
 - [x] Trackpad (Only working in Polling MODE with VoodooI2C)
 - [x] System Fan Control
 - [x] Hardware Acceleration
