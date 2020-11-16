@@ -48,8 +48,6 @@
 - [x] Power Management and P-States
 
 
-# KNOWN ISSUES
-
 # SCREENSHOT
 ![System Info](screenshot/2020-11-16_12-33-48.png)
 ![System Info](screenshot/2020-11-16_12-29-32.png)
